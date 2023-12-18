@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saurabh9983
-- 👀 I’m interested in data 
+- 👀 I’m interested in data analytics,web dev
 - 🌱 I’m currently learning sql,DSA,Power bi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saurabhrai9983@gmail.com
